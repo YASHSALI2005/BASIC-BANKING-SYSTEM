@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #2393fc!important;
+}
+
+.navbar-brand{
+    font-family: 'Abolition', abolition;
+    font-size: 1.5rem;
+    color: #e8ce9d!important;
+}
+
+.nav-link{
+    color: #000000!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #11dfff;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(2, 158, 248)!important;
+    color: rgb(255, 255, 255)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(0, 229, 255)!important;
+}
